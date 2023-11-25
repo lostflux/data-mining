@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 report
-project
+project/
+NOTE.md*
